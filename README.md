@@ -47,7 +47,3 @@ It integrates live database queries, KPI metrics, and visual insights into a sin
 
 3. **Automation:**  
    The VBA script (`RefreshAndExportPDF.bas`) refreshes all Power Query data, adjusts the page layout, and exports the Dashboard as a PDF on the desktop.
-
----
-
-### Project Structure
